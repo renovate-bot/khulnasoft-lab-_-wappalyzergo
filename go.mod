@@ -1,4 +1,4 @@
-module github.com/khulnasoft-labs/wappalyzergo
+module github.com/khulnasoft-lab/wappalyzergo
 
 go 1.16
 

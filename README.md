@@ -13,7 +13,7 @@ Uses data from https://github.com/AliasIO/wappalyzer
 ### Using *go install*
 
 ```sh
-go install -v github.com/khulnasoft-labs/wappalyzergo/cmd/update-fingerprints@latest
+go install -v github.com/khulnasoft-lab/wappalyzergo/cmd/update-fingerprints@latest
 ```
 
 After this command *wappalyzergo* library source will be in your current go.mod.
@@ -30,7 +30,7 @@ import (
 	"log"
 	"net/http"
 
-	wappalyzer "github.com/khulnasoft-labs/wappalyzergo"
+	wappalyzer "github.com/khulnasoft-lab/wappalyzergo"
 )
 
 func main() {
